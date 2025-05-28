@@ -34,10 +34,10 @@ We use a combination of computer vision and deep learning to:
 
 
 ## Screenshots
-
-_Add screenshots to `assets/screenshots/` and display here:_
-
-![Demo](assets/screenshots/demo.png)
+![Screenshot 1](Screenshot (3).png)
+![Screenshot 1](Screenshot (4).png)
+![Screenshot 1](Screenshot (5).png)
+![Screenshot 1](Screenshot (6).png)
 
 ## Run Instructions
 
